@@ -1,4 +1,10 @@
-![Terraform](https://img.shields.io/badge/Terraform-AWS-blueviolet) ![IaC](https://img.shields.io/badge/IaC-Infrastructure%20as%20Code-success)
+![Terraform](https://img.shields.io/badge/Terraform-AWS-blueviolet) 
+![IaC](https://img.shields.io/badge/IaC-Infrastructure%20as%20Code-success)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![EC2](https://img.shields.io/badge/EC2-Instance-blue)
+![S3](https://img.shields.io/badge/S3-Bucket-yellow)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
+
 
 # Deploying a Jenkins Server on AWS Using Terraform
 
