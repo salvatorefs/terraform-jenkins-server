@@ -5,6 +5,8 @@
 ![S3](https://img.shields.io/badge/S3-Bucket-yellow)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red)
 
+> 📖 Full project walkthrough available [here](https://medium.com/@salvatoref/deploying-a-jenkins-server-on-aws-using-terraform-24931e1225a6)!
+
 
 # Deploying a Jenkins Server on AWS Using Terraform
 
@@ -85,3 +87,10 @@ This project helped me practice deploying infrastructure with Terraform and trou
 It reinforced the importance of verifying server requirements during automated deployments and improved my confidence managing AWS resources via Infrastructure as Code (IaC).
 
 ---
+
+## 📖 Full Walkthrough
+
+For a detailed explanation of this project, including challenges faced and troubleshooting steps,  
+please follow the full project walkthrough on Medium:
+
+🔗 [Read the full article here](https://medium.com/@salvatoref/deploying-a-jenkins-server-on-aws-using-terraform-24931e1225a6)
